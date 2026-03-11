@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 TRAIN_DATA_PATH = "train.txt"
 MODEL_ARCH_PATH = "model_architecture.json"
 MODEL_WEIGHTS_PATH = "model_weights.weights.h5" # Fixed for Keras 3
-API_KEY = 'AIzaSyCF9VOMEsQxfpiqVIg_n32tbLYIMJc3zHo'
+API_KEY = '###########################'
 
 def get_video_id(url):
     """Robustly extract video ID from various YouTube URL formats."""
